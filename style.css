@@ -115,6 +115,10 @@
   width: 50%;
   height: 90%;
   background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
 }
 .head-image{
   width:  40%;
