@@ -109,15 +109,17 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: blue;
+  /* background-color: blue; */
 }
 .head-line{
   width: 50%;
   height: 90%;
-  background-color: aqua;
+  /* background-color: aqua; */
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: centr;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   /* align-items: center; */
 }
 .head-image{
@@ -125,4 +127,23 @@
   height: 90%;
   background-color: aqua;
 }
-        
+.head-line p{
+  font-size: 1rem;
+  margin-top: 2vw;
+}
+
+.head-line h1{
+font-size: 4rem;
+line-height: 4vw;
+}
+
+.heading-btn button{
+  margin-top: 2vw;
+ padding: 1vw 2vw;
+ border-radius: 10px;
+ border: none;
+ font-size: 1vw; 
+}
+.heading-btn i{
+  font-size: 30px;
+}
