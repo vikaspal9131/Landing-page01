@@ -39,7 +39,7 @@
   border: none;
   color: #f3f3f3;
   background-color: #0E1514;
-  border: 2px solid #f3f3f3;
+  border: 1px solid #f3f3f3;
   font-size: 1rem;
 }
 
@@ -87,7 +87,7 @@
   border-radius: 10px;
   border: none;
   font-size: 1rem;
-  border: 2px solid #f3f3f3;
+  border: 1px solid #f3f3f3;
 }
 .left-btn2 button:hover{
   background-color: white;
@@ -104,24 +104,19 @@
 
 
 .profile{
-  width: 3vw;
-  height: 3vw;
+  width: 2.5vw;
+  height: 2.5vw;
   border-radius: 50%;
   border: none;
   background-color:#f3f3f3;
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid #f3f3f3;
+  color: #0E1514;
+  font-size: 1.5vw;
+
 }
 
-.profile img{
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-  object-position: center;
-}
 
 .hero{
   width: 100%;
