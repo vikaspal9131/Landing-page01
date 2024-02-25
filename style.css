@@ -239,10 +239,8 @@ line-height: 4vw;
 .card-contant{
   width: 90%;
   height: 50%;
-
   display: flex;
   flex-direction: column;
-  font-weight: 200;
   justify-content: space-around;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
