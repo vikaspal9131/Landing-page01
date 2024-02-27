@@ -273,13 +273,11 @@
   border: 1px solid white;
 }
 
-/* .hero-down-part2{
-  background-color: blue;
-} */
+
 .static-section{
   width: 100%;
   height: 20vh;
-  background-color: red;
+ 
 }
 
 .hero-nav{
@@ -304,4 +302,13 @@
   align-items: center;
   justify-content: center;
 
+}
+
+.static-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-size: 1.2rem;
+  
 }
