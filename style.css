@@ -262,6 +262,14 @@
   
 }
 
+.card-profile{
+  width: 3vw;
+  height: 6vh;
+  border-radius: 50%;
+  background-color: red;
+
+}
+
 .hero-card2 {
   width: 38%;
   height: 90%;
