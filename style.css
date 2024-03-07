@@ -349,4 +349,18 @@
   width: 50%;
   height: 100%;
   background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page2-part2-main p{
+  font-size: 1vw;
+}
+.page2-part2-main{
+  width: 50vw;
+}
+
+.page2-part2-main h1{
+  font-size: 3vw;
 }
