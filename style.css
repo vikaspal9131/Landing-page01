@@ -335,24 +335,27 @@
 .page2-main{
   width: 100%;
   height: 100%;
-  background-color: red;
+
   display: flex;
 }
 
 .page2-part1{
   width: 50%;
   height: 100%;
-  background-color: blue;
+
 }
 
 .page2-part2{
   width: 50%;
   height: 100%;
-  background-color: green;
+  color: white;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
 
 .page2-part2-main p{
   font-size: 1vw;
@@ -363,4 +366,13 @@
 
 .page2-part2-main h1{
   font-size: 3vw;
+}
+.page2-part1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page2-part1 img{
+  width: 80%;
+  height: 80%;
 }
