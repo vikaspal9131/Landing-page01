@@ -252,6 +252,7 @@
   flex-direction: column;
   justify-content: space-around;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 20px;
 }
 
 
@@ -360,7 +361,7 @@
 
 .page2-part2-main{
   width: 50%;
-  height: 30%; 
+  height: 43%; 
   border: 2px solid white;
   padding: 30px;
   border-radius:20px ;
@@ -372,6 +373,11 @@
 
 .page2-part2-main h1{
   font-size: 3vw;
+}
+.page2-part2-main p{
+  margin-top: 30px;
+  font-weight: 100;  
+
 }
 .page2-part1{
   display: flex;
@@ -385,4 +391,19 @@
   object-fit: contain;
   object-position: center;
   border-radius: 2000px;
+}
+
+
+.page2-btn{
+  margin-top: 3vw;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.page2-btn button{
+  padding: 0.8vw 2.5vw; 
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
 }
