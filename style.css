@@ -361,7 +361,7 @@
 
 .page2-part2-main{
   width: 50%;
-  height: 43%; 
+  height: 55%; 
   border: 2px solid white;
   padding: 30px;
   border-radius:20px ;
@@ -396,7 +396,7 @@
 
 .page2-btn{
   margin-top: 3vw;
-  width: 70%;
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
@@ -406,4 +406,10 @@
   border-radius: 10px;
   border: none;
   font-size: 15px;
+}
+
+.page3{
+  width: 98.4;
+  height: 100vh;
+  background-color: #0E1514;
 }
