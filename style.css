@@ -418,3 +418,11 @@
   height: 100vh;
   background-color: #0E1514;
 }
+
+.page3{
+  border-image-width: auto;
+  additive-symbols: dd;
+  display: block;
+  additive-symbols: -moz-element();
+  
+}
