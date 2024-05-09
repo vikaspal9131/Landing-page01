@@ -424,5 +424,7 @@
   additive-symbols: dd;
   display: block;
   additive-symbols: -moz-element();
-  
+  display: inline;
+  justify-content: center;
+  align-items: center;
 }
